@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity UI Slider Interaction In VR.CSharp", "Unity UI Slider Interaction In VR.CSharp.csproj", "{3F712C85-770A-D5E5-DA52-FBA4B6A5488F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity UI Slider Interaction In VR.CSharp.Editor", "Unity UI Slider Interaction In VR.CSharp.Editor.csproj", "{6B9EEB9F-B3AA-26DC-2FB4-F9F568727434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F712C85-770A-D5E5-DA52-FBA4B6A5488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F712C85-770A-D5E5-DA52-FBA4B6A5488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F712C85-770A-D5E5-DA52-FBA4B6A5488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F712C85-770A-D5E5-DA52-FBA4B6A5488F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9EEB9F-B3AA-26DC-2FB4-F9F568727434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9EEB9F-B3AA-26DC-2FB4-F9F568727434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9EEB9F-B3AA-26DC-2FB4-F9F568727434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9EEB9F-B3AA-26DC-2FB4-F9F568727434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
